@@ -1,0 +1,9 @@
+﻿  lab5bid262komarov.c
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(13,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(24,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(25,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(26,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(21,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(21,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Пользователь\source\repos\lab5bid262komarov\lab5bid262komarov\lab5bid262komarov.c(21,34): warning C4305: инициализация: усечение из "double" в "float"
+  lab5bid262komarov.vcxproj -> C:\Users\Пользователь\source\repos\lab5bid262komarov\x64\Debug\lab5bid262komarov.exe
