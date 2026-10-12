@@ -18,7 +18,7 @@ int task1() {
 int task2() {
 	//var 10
 	int c;
-	float x, y = 0.41, p = 2.6, t = 0.3, b, a;
+	float x, y = -4.14, t = 0.3, b, a;
 	printf("Введите значение х (дробная часть ч.з запятую): \n");
 	scanf("%f", &x);
 	b = x * pow(t,2) + pow(x,1./2);
