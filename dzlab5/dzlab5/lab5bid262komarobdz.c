@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <math.h>
 #include <locale.h>
@@ -7,7 +8,17 @@ double task(double a, double x, double y);
 
 int main() {
 	setlocale(LC_ALL, ".UTF8");
-	double x = 3.981e-2, y = -1.625e3, z = 0.512, a;
+	double x, y, z, a;
+
+	printf("Введите значение x: ");
+	scanf("%lf", &x);
+
+	printf("Введите значение y: ");
+	scanf("%lf", &y);
+
+	printf("Введите значение z: ");
+	scanf("%lf", &z);
+
 	a = task(x, y, z);
 	printf("%.6f", a);
 
